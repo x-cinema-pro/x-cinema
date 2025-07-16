@@ -1,1 +1,1 @@
-fix: configure base path for deployment
+fix: add missing public assets and correct vite config
